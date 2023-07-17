@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Fasthand&family=IBM+Plex+Serif:ital,wght@1,100&family=Roboto:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:ital,wght@1,100&family=Raleway&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:ital,wght@1,100&family=Roboto:wght@100;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200;1,200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&family=Raleway:wght@100&display=swap');
+
+@import './paginas/aboutus';
+@import './paginas/contact';
+@import './paginas/violencia';
+@import './paginas/orlando';
+@import './paginas/nuevayork';
+@import './paginas/burma';
+@import './paginas/conciencia';
+@import './paginas/fausto';
+@import './paginas/cialealta';
+@import './paginas/facebook';
+@import './paginas/moretti';
+@import './paginas/loreal';
+@import './paginas/patagonia';
+@import './paginas/munich';
+@import './paginas/unrebardo';
+@import './paginas/orbita29';
+@import './paginas/29dejunio';
+@import './paginas/americanblue';
+@import './paginas/berlina';
+@import './paginas/fotoproducto';
+@import './paginas/lpda';
+@import './paginas/work';
+@import'./secciones/_navbar.scss';
+@import './paginas/_index.scss';
+@import './secciones/footer';
